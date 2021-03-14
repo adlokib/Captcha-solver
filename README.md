@@ -1,2 +1,2 @@
 # Captcha-solver
-This project it solves text based captchas
+This project solves text based captchas
